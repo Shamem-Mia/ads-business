@@ -1,1 +1,1 @@
-# Chat-me-full-stack-app
+# Business app for earn money by ads
